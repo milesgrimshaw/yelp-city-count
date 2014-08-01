@@ -1,0 +1,5 @@
+credentials:
+  consumer_key: NUM
+  consumer_secret: NUM
+  token: NUM
+  token_secret: NUM

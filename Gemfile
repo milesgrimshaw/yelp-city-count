@@ -1,5 +1,5 @@
 # Gems to include
 source 'https://rubygems.org'
-gem 'oath'
+gem 'oauth'
 gem 'json'
 gem 'csv'
